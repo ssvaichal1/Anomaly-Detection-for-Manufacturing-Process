@@ -1,4 +1,4 @@
-# Phase-I-multivariate-analysis-on-manufacturing-process-data-ISEN-614
+# Anomaly Detection for Manufacturing process-ISEN-614
 A monitoring scheme for future missions (Phase-II analysis) in order to identify data falling in out-of-control and in-control categories. 
 
 Description of Course Project:
