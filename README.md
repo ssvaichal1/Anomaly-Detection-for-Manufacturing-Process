@@ -1,7 +1,7 @@
 # Anomaly Detection for Manufacturing process-ISEN-614
-A monitoring scheme for future missions (Phase-II analysis) in order to identify data falling in out-of-control and in-control categories. 
+In this project, a monitoring scheme has been built for observing future operations (Phase-II analysis) of a manufacturing process in order to identify data falling in out-of-control and in-control categories. 
 
-The project is based on a set of data collected from a manufacturing process, in which both in-control and out-of-control data are present. A model (T2 hotelling chart) is built after data preprocessing to detect out-of-control points (anomalies).
+The project is based on a set of sensor data collected, in which both in-control and out-of-control data are present. A model (T2 hotelling chart) is built after data preprocessing to detect out-of-control points (anomalies).
 
 Description of the dataset
 (a) This is a manufacturing related dataset, and it has a total of 552 data records.
